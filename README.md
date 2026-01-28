@@ -47,6 +47,10 @@ npm run dev
 npm run build
 ```
 
+## 🌐 GitHub Pages
+
+When deploying to GitHub Pages, keep the Vite `base` option in `vite.config.js` aligned with the repository name (for example, `/the-long-road-west/`). This ensures asset paths resolve correctly on the Pages site.
+
 ## 📦 Tech Stack
 
 - **React 18** — UI framework
